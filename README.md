@@ -11,6 +11,14 @@
 
 [ИДБ-14-14]()
 
+Лабораторные работы выполняются в одном или нескольких проектах:
+
+Библиотека статистики (https://github.com/stankin/oop-stat/projects/1)
+
+Библиотека моделей (https://github.com/stankin/oop-stat/projects/1)
+
+Приложение визуализации моделей (https://github.com/stankin/oop-stat/projects/1)
+
 Основные требования к результатам:
 
 Модуль 1
