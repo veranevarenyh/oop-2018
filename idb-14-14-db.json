@@ -1,15 +1,15 @@
 {  
   "title":"Группа ИДБ-14-14",
   "members":[
-      {"name": "Коротков Алексей",          "m1": "",    "m2": "",    "href":""        },
-      {"name": "Хомяков Игорь",      "m1": "",    "m2": "",    "href":""    }, 
-      {"name": "Плотников Алексей",      "m1": "",    "m2": "",    "href":""    }, 
-      {"name": "Тулякова Екатерина",      "m1": "",    "m2": "",    "href":""    }, 
-      {"name": "Пономарев Антон",      "m1": "",    "m2": "",    "href":""    }, 
-      {"name": "Трубаев Игорь",      "m1": "",    "m2": "",    "href":""    }, 
-      {"name": "Самсонова Мария",      "m1": "",    "m2": "",    "href":""    }, 
+      {"name": "Коротков Алексей",          "m1": "",    "m2": "",    "href":"href":"http://github.com/Zato4ka/Laba"        },
+      {"name": "Хомяков Игорь",      "m1": "",    "m2": "",    "href":"http://github.com/igorwebdeveloper/igorkh.github.io"    }, 
+      {"name": "Плотников Алексей",      "m1": "",    "m2": "",    "href":"href":"http://github.com/maelstorm207/ripasetary/"    }, 
+      {"name": "Тулякова Екатерина",      "m1": "",    "m2": "",    "href":"http://github.com/katerina10210/katerina.github.io"    }, 
+      {"name": "Пономарев Артур",      "m1": "",    "m2": "",    "href":"href":"http://github.com/Corndoggod/corndoge.github.io"    }, 
+      {"name": "Трубаев Игорь",      "m1": "",    "m2": "",    "href":"href":"http://github.com/grioz/laba"    }, 
+      {"name": "Самсонова Мария",      "m1": "",    "m2": "",    "href":"href":"http://github.com/MariaSamsonova/OOP_Lab"    }, 
       {"name": "Репин Станислав",      "m1": "",    "m2": "",    "href":"http://github.com/stasofan/repositforooplab"    },
-      {"name": "Чувак Павел",      "m1": "",    "m2": "",    "href":""    }
+      {"name": "Чувак Павел",      "m1": "",    "m2": "",    "href":"href":"http://github.com/"    }
     
   ]
 }
