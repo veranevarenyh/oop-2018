@@ -1,7 +1,10 @@
 {  
   "title":"Группа ИДБ-14-11",
   "members":[
-    {"name": "Акимов Михаил Владимирович",          "m1": "25",    "m2": "30",    "href":"Akimov"        },
-    {"name": "Скакленева Алина Александровна",      "m1": "50",    "m2": "49",    "href":"skakleneva"    }
+    {"name": "Громов Богдан Леонидович",          "m1": "??",    "m2": "??",    "href":"https://gromovbog.github.io/"},
+    {"name": "Аксел ншот",      "m1": "??",    "m2": "??",    "href":"https://petrocie.github.io/"},
+    {"name": "Асроров Мухаммад",      "m1": "??",    "m2": "??",    "href":"https://hohsdop.github.io/"},
+    {"name": "Баламетов Джамил Джалилович",      "m1": "??",    "m2": "??",    "href":"https://balametov.github.io/"},
+    {"name": "Мабу Моисе Эрманн",      "m1": "??",    "m2": "??",    "href":"https://moise1993.github.io/"}
   ]
 }
