@@ -1,7 +1,11 @@
 {  
   "title":"Группа ИДБ-14-13",
   "members":[
-    {"name": "Акимов Михаил Владимирович",          "m1": "25",    "m2": "30",    "href":"Akimov"        },
-    {"name": "Скакленева Алина Александровна",      "m1": "50",    "m2": "49",    "href":"skakleneva"    }
+    {"name": "Ежов Денис Олегович",          "m1": "",    "m2": "",    "href":"https://github.com/DenisHedgehog/DenisHedgehog.github.io" },
+    {"name": "Лебедев Александр Михайлович",      "m1": "",    "m2": "",    "href":"https://github.com/Exiragor/Exiragor.github.io" },
+    {"name": "Матвеев Антон Сергеевич",      "m1": "",    "m2": "",    "href":"https://github.com/Keklgar/Keklgar.github.io" },
+    {"name": "Нещадин Иван Павлович",      "m1": "",    "m2": "",    "href":"https://github.com/Exitialis/exitialis.github.io" },
+    {"name": "Шуленина Анастасия Владимировна",      "m1": "",    "m2": "",    "href":"https://github.com/asay1515/asay1515.github.io" },
+    {"name": "Яцунь Инна Васильевна",      "m1": "",    "m2": "",    "href":"https://github.com/Chyogurt/chyogurt.github.io" }
   ]
 }
