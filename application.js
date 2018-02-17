@@ -43,7 +43,7 @@ app.controller('AppCtrl', ['$scope','$http', function($scope,$http){
     $scope.title = response.data.title
   })
   .catch(function(error){
-    alert("Файл "+database_path+" не найден или некорректен (код "+error.status+")")
+    alert("Файл "+database_path+" не найден или некорректен (код "+error.status+")<br>"+error.data)
   })
   
   $scope.custom = {name: 'bold', description:'grey',last_modified: 'grey'};
