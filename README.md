@@ -13,11 +13,11 @@
 
 Лабораторные работы выполняются в одном или нескольких проектах:
 
-* [Библиотека статистики](https://github.com/stankin/oop-stat/projects/1)
+* [Приложение](https://github.com/stankin/oop-app/tree/master) и [проект](https://github.com/stankin/oop-app/projects/1) визуализации моделей
 
-* [Библиотека моделей](https://github.com/stankin/oop-model/projects/1)
+* [Библиотека](https://github.com/stankin/oop-model/tree/master) и [проект](https://github.com/stankin/oop-model/projects/1) служебных функций обработки моделей
 
-* [Приложение визуализации моделей](https://github.com/stankin/oop-app/projects/1)
+* [Библиотека](https://github.com/stankin/oop-stat/tree/master) и [проект](https://github.com/stankin/oop-stat/projects/1) служебных функций статистики
 
 Основные требования к результатам:
 
