@@ -1,11 +1,11 @@
 {  
   "title":"Группа ИДБ-14-12",
   "members":[
-    {"name": "Варварюк Александр Викторович",   "m1": "50",    "m2": "",    "href":"https://github.com/VarvariucA/VarvariucA.github.io" },
-    {"name": "Миннибаев Артём Самиулович",      "m1": "30",    "m2": "",    "href":"https://github.com/MinnibaevA/MinnibaevA.github.io" },
-    {"name": "Игнатьев Михаил Юрьевич",      "m1": "50",    "m2": "",    "href":"https://github.com/IgnatevM/IgnatevM.github.io" },
-    {"name": "Панин Евгений Сергеевич",      "m1": "",    "m2": "",    "href":"https://github.com/st114249/st114249.github.io" },
-    {"name": "Киосе Никита",                 "m1": "50",    "m1": "",    "href":"https://crotopus.github.io/lab/"},
+    {"name": "Варварюк Александр Викторович",   "m1": "50",    "m2": "",    "href":"https://VarvariucA.github.io" },
+    {"name": "Миннибаев Артём Самиулович",      "m1": "30",    "m2": "",    "href":"https://MinnibaevA.github.io" },
+    {"name": "Игнатьев Михаил Юрьевич",      "m1": "50",    "m2": "",    "href":"https://IgnatevM.github.io" },
+    {"name": "Панин Евгений Сергеевич",      "m1": "",    "m2": "",    "href":"https://st114249.github.io" },
+    {"name": "Киосе Никита Сергеевич",                 "m1": "50",    "m1": "",    "href":"https://crotopus.github.io/lab/"},
     {"name": "Рубцов Андрей Александрович", "m1": "50", "m2": "", "href": "https://lokvest.github.io"},
     {"name": "Барбашова Полина Андреевна",      "m1": "50",    "m2": "",    "href":"https://pupka.github.io" },
     {"name": "Иванова Анна Александровна",      "m1": "50",    "m2": "",    "href":"https://aubahoba.github.io" },
@@ -15,8 +15,8 @@
     {"name": "Аббасова Ирада Имдадовна",       "m1": "50",    "m2": "",      "href":"https://abbasovai.github.io/" },
     {"name": "Романов Никита Сергеевич",       "m1": "50",    "m2": "",      "href":"https://rolliks-nik.github.io/" },
     {"name": "Федоров Михаил Юрьевич",       "m1": "50",    "m2": "",      "href":"https://fedorovm.github.io/" },
-    {"name": "Постникова Валерия",       "m1": "50",    "m2": "",      "href":"https://postnikova1412.github.io" },
-    {"name": "Антощук Артём",       "m1": "50",    "m2": "",      "href":"https://goredell.github.io" },
-    {"name": "георгий",       "m1": "50",    "m2": "",      "href":"https://iwepop.github.io/" }
+    {"name": "Постникова Валерия Николаевна",       "m1": "50",    "m2": "",      "href":"https://postnikova1412.github.io" },
+    {"name": "Антощук Артём Максимович",       "m1": "50",    "m2": "",      "href":"https://goredell.github.io" },
+    {"name": "Борисов Георгий Леонидович",       "m1": "50",    "m2": "",      "href":"https://iwepop.github.io/" }
   ]
 }
